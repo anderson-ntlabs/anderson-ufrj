@@ -45,6 +45,11 @@ A Turborepo monorepo with four vertical products in active development across 10
 
 ---
 
+## Awards & Recognition
+
+- **2nd place** — Undergraduate Final Projects Contest (CTDG-SI), SBSI 2026 · SBC, 2026
+- **Finalist (Top 5 nationally)** — SBC Innovation Seal 2026 · SBC, 2026
+
 ## Writing & Talks
 
 **Speaker at UaiSINT 2025**
