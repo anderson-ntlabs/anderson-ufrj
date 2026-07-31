@@ -2,7 +2,7 @@
 
 AI Systems Engineer. Philosophy before code, systems before features.
 
-Daily Claude Code user since March 2024 (Anthropic Academy "Claude Code in Action" certified) and published researcher on AI-assisted software engineering — author of [*The Cyborg Developer*](https://doi.org/10.5281/zenodo.18111064) (computational autoethnography of 802 Claude Code sessions) and [*From Commits to Cognition*](https://doi.org/10.5281/zenodo.18012186) (mental models framework for developers working with LLM tooling).
+Daily Claude Code user since April 2025 (Anthropic Academy "Claude Code in Action" certified) and published researcher on AI-assisted software engineering — author of [*The Cyborg Developer*](https://doi.org/10.5281/zenodo.18111064) (computational autoethnography of 802 Claude Code sessions) and [*From Commits to Cognition*](https://doi.org/10.5281/zenodo.18012186) (mental models framework for developers working with LLM tooling).
 
 I studied Philosophy at UFRJ before Computer Science — I learned to think before I learned to build. The interesting problems in AI live at the seam between what a machine can parse and what a citizen needs to understand.
 
